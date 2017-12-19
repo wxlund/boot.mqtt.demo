@@ -20,5 +20,7 @@ CommandLineRunner. The expected output is:
 ```
 The Tuning example was converted to a unit test so that you could see how
 they are structured.  If you read the article there are a number of ways you can
-extend this to develop a structure for performance testing. I did n
+extend this to develop a structure for performance testing. The apps were not refactored any
+further than to enable them to be launched as boot apps in a testing and CommandLineRunner
+format.  
 
